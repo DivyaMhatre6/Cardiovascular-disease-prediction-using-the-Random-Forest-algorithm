@@ -58,8 +58,10 @@ Cardiovascular-Disease-Prediction/
 │   ├── model.py
 │   └── prediction.py
 
-👩‍💻 Author
-Divya Mhatre
 │
 ├── requirements.txt
 └── README.md
+
+👩‍💻 Author
+Divya Mhatre
+
